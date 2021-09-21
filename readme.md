@@ -1,1 +1,1 @@
-The first HTML/CSS project: Pizza restaurant website.
+The first HTML/CSS training project: Pizza restaurant website.
